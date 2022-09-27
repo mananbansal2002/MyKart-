@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import React, { Component, useState } from 'react'
+import React, {  useState } from 'react'
 import ProductList from './components/productlist'; 
 import Navbar from './components/navbar';
 function App() {
