@@ -5,7 +5,7 @@ function Navbar () {
 
         <nav className="navbar navbar-dark navbar-expand-dark bg-dark">
   <div className="container-fluid">
-    <a className="navbar-brand" href="#">
+    <a className="navbar-brand" >
       MyKart
     </a>
   </div>
