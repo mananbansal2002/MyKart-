@@ -5,9 +5,9 @@ function Navbar () {
 
         <nav className="navbar navbar-dark navbar-expand-dark bg-dark">
   <div className="container-fluid">
-    <a className="navbar-brand" >
+    <p className="navbar-brand" >
       MyKart
-    </a>
+    </p>
   </div>
 </nav>
 
